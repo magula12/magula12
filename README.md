@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magula12
 - 👀 I’m interested in Web Apps
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me magula12@uniba.sk
 - 😄 Pronouns: ??
